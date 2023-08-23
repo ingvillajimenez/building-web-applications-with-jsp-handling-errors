@@ -19,3 +19,10 @@
 0:0:0:0:0:0:0:1 - - [22/Aug/2023:19:05:11 -0500] "GET /favicon.ico HTTP/1.1" 200 21630
 0:0:0:0:0:0:0:1 - - [22/Aug/2023:19:06:38 -0500] "GET /jsp-project/ HTTP/1.1" 200 214
 0:0:0:0:0:0:0:1 - - [22/Aug/2023:19:07:29 -0500] "GET /jsp-project/jsp/process.jsp?num1=&num2=4 HTTP/1.1" 500 346
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:19:37:30 -0500] "GET /jsp-project/ HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:19:38:17 -0500] "GET /jsp-project/jsp/process.jsp?num1=52&num2=0 HTTP/1.1" 200 88
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:23:17:21 -0500] "GET /jsp-project/jsp/process.jsp?num1=52&num2=0 HTTP/1.1" 500 333
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:23:17:31 -0500] "GET /jsp-project/ HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:23:18:45 -0500] "GET /jsp-project/jsp/process.jsp?num1=21&num2=0 HTTP/1.1" 500 333
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:23:21:46 -0500] "GET /jsp-project/ HTTP/1.1" 200 214
+0:0:0:0:0:0:0:1 - - [22/Aug/2023:23:22:35 -0500] "GET /jsp-project/jsp/process.jsp?num1=31&num2= HTTP/1.1" 500 346

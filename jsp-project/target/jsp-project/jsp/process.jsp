@@ -1,4 +1,3 @@
-<%@ page errorPage="error.jsp" %>
 <%
     String firstNum = request.getParameter("num1");
     String secNum = request.getParameter("num2");
